@@ -1,5 +1,7 @@
 # DARPA Robotics Challenge Simulator #
 
+This repo includes minor changes to the original version to support ros kinetic.
+
 Gazebo is the basis for the DRC Simulator, which is used by participants in the DRC program, especially the Virtual Robotics Challenge (VRC), a cloud-based simulation competition scheduled for June 2013. Building upon Gazebo, the DRC Simulator, or DRCSim, comprises additional worlds, models, and code that is specifically required to simulate the DRC domain.
 
 For more detailed documentations please see
